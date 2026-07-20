@@ -12,7 +12,7 @@ I'm currently preparing for Software Engineer roles while building impactful sof
 
 - 🎓 Final Year CSE Student @ Government Model Engineering College
 - 📈 CGPA: **9.13/10**
-- 👩‍💼 Chairperson, Microsoft Azure Community Students Club (MACS MEC)
+- 👩‍💼 Chairperson, MEC Association of Computer Science Students (MACS MEC)
 - 💼 Worked as Data Analysis Intern @ Cognifyz Technologies
 - 🌱 Currently solving DSA problems and exploring Backend Development
 
@@ -55,7 +55,7 @@ A Machine Learning powered web application that predicts mental health condition
 🔹 Report Generation
 
 👉 **Repository:**  
-<[YOUR MINDWATCH REPO LINK>](https://github.com/arthana3084/MindWatch)
+<[MINDWATCH REPO LINK>](https://github.com/arthana3084/MindWatch)
 
 ---
 
@@ -69,7 +69,7 @@ A full-stack web application that enables students to request, donate and manage
 🔹 JavaScript
 
 👉 **Repository:**  
-<[YOUR STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/Study_Equipment_Exchange_System)>
+<[STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/Study_Equipment_Exchange_System)>
 
 
 ---
@@ -87,7 +87,7 @@ A full-stack web application that enables students to request, donate and manage
 📧 Email: **arthana3084@gmail.com**
 
 💼 LinkedIn:
-[YOUR LINKEDIN](https://www.linkedin.com/in/arthana-sreekesh/)
+[LINKEDIN](https://www.linkedin.com/in/arthana-sreekesh/)
 
 🌐 GitHub:
 https://github.com/arthana3084
