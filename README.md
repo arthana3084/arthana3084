@@ -12,8 +12,8 @@ I'm currently preparing for Software Engineer roles while building impactful sof
 
 - 🎓 Final Year CSE Student @ Government Model Engineering College
 - 📈 CGPA: **9.13/10**
-- 💼 Data Analytics Intern @ Cognifyz Technologies
 - 👩‍💼 Chairperson, Microsoft Azure Community Students Club (MACS MEC)
+- 💼 Worked as Data Analysis Intern @ Cognifyz Technologies
 - 🌱 Currently solving DSA problems and exploring Backend Development
 
 ---
@@ -55,7 +55,7 @@ A Machine Learning powered web application that predicts mental health condition
 🔹 Report Generation
 
 👉 **Repository:**  
-<YOUR MINDWATCH REPO LINK>
+<[YOUR MINDWATCH REPO LINK>](https://github.com/arthana3084/MindWatch)
 
 ---
 
@@ -69,16 +69,8 @@ A full-stack web application that enables students to request, donate and manage
 🔹 JavaScript
 
 👉 **Repository:**  
-<YOUR STUDY EQUIPMENT REPO LINK>
+<[YOUR STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/Study_Equipment_Exchange_System)>
 
----
-
-## 📊 Restaurant Data Analysis
-
-Performed Exploratory Data Analysis on restaurant datasets to derive meaningful business insights through visualization.
-
-👉 **Repository:**  
-<YOUR RESTAURANT ANALYSIS REPO LINK>
 
 ---
 
@@ -92,10 +84,10 @@ Performed Exploratory Data Analysis on restaurant datasets to derive meaningful 
 
 # 📫 Connect With Me
 
-📧 Email: **YOUR EMAIL**
+📧 Email: **arthana3084@gmail.com**
 
 💼 LinkedIn:
-YOUR LINKEDIN
+[YOUR LINKEDIN](https://www.linkedin.com/in/arthana-sreekesh/)
 
 🌐 GitHub:
 https://github.com/arthana3084
