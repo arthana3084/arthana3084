@@ -59,7 +59,7 @@ A Machine Learning powered web application that predicts mental health condition
 
 ---
 
-## 🎓 CampusHub
+## 🎓 CampusHub - Campus resource management platform
 
 An AI-powered campus resource sharing platform that enables students to buy, sell, rent, exchange, and donate academic resources while promoting affordability and sustainability. The project is our major project and is under development.
 
