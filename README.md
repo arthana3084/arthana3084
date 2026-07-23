@@ -11,7 +11,7 @@ I'm currently preparing for Software Engineer roles while building impactful sof
 ## 🚀 About Me
 
 - 🎓 Final Year CSE Student @ Government Model Engineering College
-- 📈 CGPA: **9.13/10**
+- 📈 CGPA: **9.13**
 - 👩‍💼 Chairperson, MEC Association of Computer Science Students (MACS MEC)
 - 💼 Worked as Data Analysis Intern @ Cognifyz Technologies
 - 🌱 Currently solving DSA problems and exploring Backend Development
@@ -84,6 +84,7 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 # 💻 Coding Platforms
 
+- NeetCode
 - LeetCode
 - GeeksforGeeks
 - TakeUForward (Striver)
@@ -96,9 +97,6 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 💼 LinkedIn:
 [LINKEDIN](https://www.linkedin.com/in/arthana-sreekesh/)
-
-🌐 GitHub:
-https://github.com/arthana3084
 
 ---
 
