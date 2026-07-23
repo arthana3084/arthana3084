@@ -59,17 +59,25 @@ A Machine Learning powered web application that predicts mental health condition
 
 ---
 
-## 📚 Study Equipment Exchange System
+## 🎓 CampusHub
 
-A full-stack web application that enables students to request, donate and manage study equipment efficiently.
+An AI-powered campus resource sharing platform that enables students to buy, sell, rent, exchange, and donate academic resources while promoting affordability and sustainability. The project is our major project and is under development.
 
+### Current Technologies
 🔹 Node.js  
+🔹 Express.js  
 🔹 MySQL  
 🔹 HTML/CSS  
-🔹 JavaScript
+🔹 JavaScript  
+
+### Planned Technologies
+🔹 Python  
+🔹 Flask  
+🔹 Machine Learning  
+🔹 NLP  
 
 👉 **Repository:**  
-<[STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/Study_Equipment_Exchange_System)>
+<[STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/CampusHub)>
 
 
 ---
