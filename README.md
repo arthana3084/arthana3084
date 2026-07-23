@@ -77,7 +77,7 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 🔹 NLP  
 
 👉 **Repository:**  
-<[STUDY EQUIPMENT REPO LINK](https://github.com/arthana3084/CampusHub)>
+<[CAMPUSHUB REPO LINK](https://github.com/arthana3084/CampusHub)>
 
 
 ---
