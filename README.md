@@ -2,6 +2,8 @@
 
 🎓 Final Year B.Tech Computer Science & Engineering Student at Government Model Engineering College, Kochi.
 
+🏅 HackerRank Certified Software Engineer Intern (Verified).
+
 💻 Passionate about Software Engineering, Backend Development, Machine Learning and Data Analytics.
 
 I'm currently preparing for Software Engineer roles while building impactful software solutions and strengthening my problem-solving skills.
@@ -12,10 +14,10 @@ I'm currently preparing for Software Engineer roles while building impactful sof
 
 - 🎓 Final Year CSE Student @ Government Model Engineering College
 - 📈 CGPA: **9.13**
+- 🏅 HackerRank Certified Software Engineer Intern
 - 👩‍💼 Chairperson, MEC Association of Computer Science Students (MACS MEC)
 - 💼 Worked as Data Analysis Intern @ Cognifyz Technologies
-- 🌱 Currently solving DSA problems and exploring Backend Development
-
+- 💻 Built My-DSA-Handbook | Solved 130+ DSA Problems
 ---
 
 # 🛠️ Tech Stack
