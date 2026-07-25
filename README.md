@@ -84,12 +84,19 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 ---
 
-# 💻 Coding Platforms
+## 💼 Experience
 
-- NeetCode
-- LeetCode
-- GeeksforGeeks
-- TakeUForward (Striver)
+### Data Analysis Intern | Cognifyz Technologies
+
+- Worked on data preprocessing, exploratory data analysis, and visualization using **Python, Pandas, NumPy, and Matplotlib**.
+- 📄 **[View Internship Certificate](https://drive.google.com/file/d/1CpZsxf3Q4vw3zIFBgd5yFe4kHcHuJKAY/view?usp=sharing)**
+
+---
+
+## 📜 Certifications
+
+- 🏅 **[HackerRank Certified Software Engineer Intern (Verified)](https://www.hackerrank.com/certificates/iframe/ec2a55d1b4c7)**
+- 📊 **[NPTEL – Data Science with Python](https://drive.google.com/file/d/17tdgFqSIiHW114AIWf5kwb0zY6DtsGYI/view?usp=sharing)**
 
 ---
 
