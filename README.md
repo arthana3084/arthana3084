@@ -100,10 +100,10 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 # 📫 Connect With Me
 
-📧 Email: **arthana3084@gmail.com**
-    Instagram:
+-📧 Email: **arthana3084@gmail.com**
+-    Instagram:
 [INSTAGRAM](https://instagram.com/arthana_sreekesh)
-💼 LinkedIn:
+-💼 LinkedIn:
 [LINKEDIN](https://www.linkedin.com/in/arthana-sreekesh/)
 
 ---
