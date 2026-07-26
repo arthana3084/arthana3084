@@ -2,8 +2,6 @@
 
 🎓 Final Year B.Tech Computer Science & Engineering Student at Government Model Engineering College, Kochi.
 
-🏅 HackerRank Certified Software Engineer Intern (Verified).
-
 💻 Passionate about Software Engineering, Backend Development, Machine Learning and Data Analytics.
 
 I'm currently preparing for Software Engineer roles while building impactful software solutions and strengthening my problem-solving skills.
