@@ -98,7 +98,7 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 ---
 
-## Coding Profiles
+## Coding Profile 
 
 - LeetCode: https://leetcode.com/u/arthana3084
 
