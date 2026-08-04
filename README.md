@@ -98,9 +98,10 @@ An AI-powered campus resource sharing platform that enables students to buy, sel
 
 ---
 
-## Coding Profile 
+## Coding Profile
 
 - LeetCode: https://leetcode.com/u/arthana3084
+(I've been practicing in different platforms like NeetCode150, Striver's SDE Sheet and Striver's A2Z Sheet. But since these are not shareable, I clubbed all of the submission into leetcode. So the streak here does not reflect my actual consistency.)
 
 ---
 
